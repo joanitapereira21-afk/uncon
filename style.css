@@ -91,9 +91,9 @@
     
     .symbol-grid {
       display: grid;
-      grid-template-columns: repeat(10, 1fr); /* 10 columns 1 row */
-      grid-auto-rows: auto;
-      gap: 22px;
+      grid-template-columns: repeat(5, 1fr);
+      grid-template-rows: repeat(2, auto);
+      gap: 15px;
       justify-content: center;
     }
 
