@@ -1,8 +1,8 @@
  .app {
       width: 100%;
-      max-width: 1920px;
+      max-width: 1366px;
       height: 100vh;
-      max-height: 1080px;
+      max-height: 1024px;
       position: relative;
       overflow: hidden;
       background-image:
